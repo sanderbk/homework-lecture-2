@@ -1,0 +1,1 @@
+1. het is niet slim om mailto functie te gebruiken want je email adress word dan gescraped en krijg je allemaal spam.
